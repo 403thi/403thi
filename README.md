@@ -1,8 +1,8 @@
 ### Hello, World! 👋
 
-- 🌱 Estou estudando Python e JavaScript!
+- 🌱 Estou estudando Python e R!
 - 👯 Amo programação, e dentre todas as linguagens, Python é minha paixão!
-- ⚡ Comecei meus estudos em janeiro de 2021.
+- ⚡ Comecei meus estudos neste mundo em janeiro de 2021.
 - 💬 Você pode me contatar no e-mail: thidotpy@gmail.com
 - 💬 Ou no discord: thi.py#2647
 
@@ -14,7 +14,7 @@
 <div style="display: inline_block" align="right"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="right" height="150" style="border-radius:50px;" src= "https://avatars.githubusercontent.com/u/82724852?v=4">
 </div>
   
