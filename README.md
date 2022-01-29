@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-- 🌱 Estou estudando Python e R!
+- 🌱 Estou estudando Django!
 - 👯 Amo programação, e dentre todas as linguagens, Python é minha paixão!
 - ⚡ Comecei meus estudos neste mundo em janeiro de 2021.
 - 💬 Você pode me contatar no e-mail: thidotpy@gmail.com
