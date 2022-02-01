@@ -1,14 +1,19 @@
-### Hello, World! 👋
-
-- 🌱 Estou estudando Django!
-- 👯 Amo programação, e dentre todas as linguagens, Python é minha paixão!
-- ⚡ Comecei meus estudos neste mundo em janeiro de 2021.
-- 💬 Você pode me contatar no e-mail: thidotpy@gmail.com
-- 💬 Ou no discord: thi.py#2647
-
+### Hello, World! <img width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"> 
+#
+<span><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right"/></span>
+```py
+infos = {
+    "username": "thiagopyy",
+    "langs": [
+      "python",
+      "javascript"
+    ],
+    "discord":"thi.py#2647",
+}
+print(infos)
+```
 <div align="center">
   <a href="https://github.com/thiagopyy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopyy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="right"><br>
