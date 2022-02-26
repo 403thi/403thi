@@ -6,7 +6,8 @@ infos = {
     "username": "403thi",
     "langs": [
       "python",
-      "javascript"
+      "javascript",
+      "ruby"
     ],
     "discord":"403thi#2647",
 }
