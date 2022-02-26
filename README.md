@@ -8,7 +8,7 @@ infos = {
       "python",
       "javascript"
     ],
-    "discord":"thi.py#2647",
+    "discord":"403thi#2647",
 }
 print(infos)
 ```
