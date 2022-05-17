@@ -43,7 +43,7 @@ int main(void) {
     
 ----------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=403thi&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=403thi&theme=onedark)
     
 <div> 
   <a href="#"><img src="https://img.shields.io/badge/dm_discord:_403thi%232647-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
