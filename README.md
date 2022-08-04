@@ -7,7 +7,7 @@
     
 </span>
 
-- Thiago, 15yo, Brazil;
+- Thiago, 16yo, Brazil;
 - Coding things;
 
 
