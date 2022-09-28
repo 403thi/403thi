@@ -1,9 +1,6 @@
 <span align="center">
     
 ![header](https://dynamic-image-renderer.vercel.app/api?preset=dracula&title=403thi&subtitle=%2F%2Fhello%2C%20world!&textAnimation=popup&titleFontSize=90&subtitleFontSize=25&subtitlePositionY=73)
-
-![](https://komarev.com/ghpvc/?username=403thi)    
- 
     
 </span>
 
