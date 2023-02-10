@@ -6,7 +6,7 @@
 
 ## 🇧🇷 - Hello! I'm Thiago!
 - I'm a software developer, back-end is my focus.
-- I love to learn new languages! I've been studying english, spanish and japanese.
+- I love to learn new languages! I've been studying english and japanese.
 - I'm 16 years old.
 ```c
 #include <403thi.h>
