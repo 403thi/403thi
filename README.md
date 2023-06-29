@@ -6,7 +6,7 @@
 
 ## 🇧🇷 - Hello! I'm Thiago!
 - I'm a software developer, back-end is my focus.
-- I'm 16 years old.
+- I'm 17 years old.
 ```c
 #include <403thi.h>
 
