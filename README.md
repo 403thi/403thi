@@ -1,6 +1,6 @@
 <span align="center">
     
-![header](https://dynamic-image-renderer.vercel.app/api?preset=dracula&title=403thi&subtitle=%2F%2Fhello%2C%20world!&textAnimation=popup&titleFontSize=90&subtitleFontSize=25&subtitlePositionY=73)
+![header](https://dynamic-image-renderer.vercel.app/api?preset=minimalist&titleBgColor=blacktitle&titleBgOpacity=100&titleBgRainbowOpacity=100&title=403thi&subtitle=%2F%2Fbackend%2C%20developer&textAnimation=popup&titleFontSize=90&subtitleFontSize=25&subtitlePositionY=73)
     
 </span>
 
