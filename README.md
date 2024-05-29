@@ -27,5 +27,5 @@
 ----------
     
 <div> 
-  <a href="#"><img src="https://img.shields.io/badge/dm_discord:_403thi%232647-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/dm_discord:_@403thi-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
